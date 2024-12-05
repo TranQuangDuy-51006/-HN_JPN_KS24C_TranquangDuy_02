@@ -175,7 +175,9 @@ int main(){
 					printf("chua khoi tao mang");
 				}
 				break;
-				
+			case 11:
+				printf("thoat!");
+				break;
 			default:
 				printf("Lua chon khong hop le!");		
 		}
